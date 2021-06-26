@@ -1,0 +1,82 @@
+.image {
+  height: 350px;
+  width: 100%;
+  border-radius: 4px;
+}
+img {
+  width: 100%;
+}
+.desc h3 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #212c3d;
+}
+.desc p {
+  font-size: 12px;
+  line-height: 21px;
+  color: #627483;
+}
+.price {
+  width: 142px;
+  height: 21px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 21px;
+  color: #212c3d;
+}
+.details {
+  width: 100%;
+  background: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #212c3d;
+}
+.btn-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+}
+.ptop-20 {
+  padding: 20px 0;
+}
+.color1 {
+  color: #212c3d;
+}
+.color2 {
+  color: #627483;
+}
+.pry {
+  background: #227eff;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+  color: #fff;
+  width: 167px;
+  height: 45px;
+  font-size: 14px;
+}
+.sec {
+  border: 1px solid #a0b1c0;
+  color: #2e4457;
+  border-radius: 4px;
+  width: 167px;
+  height: 45px;
+  font-size: 14px;
+}
+.btn-section {
+  width: 100%;
+}

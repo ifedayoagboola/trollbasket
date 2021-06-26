@@ -1,0 +1,35 @@
+.card {
+  width: 102.61px;
+  height: 168px;
+}
+.img-container {
+  width: 100px;
+  height: 98px;
+}
+img {
+  width: 100%;
+}
+/* .details{
+
+} */
+.p-name {
+  padding: 5px 0;
+  height: 30px;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  letter-spacing: 0.01em;
+  color: #718596;
+}
+.p-price {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #071827;
+}
